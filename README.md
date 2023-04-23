@@ -47,5 +47,77 @@ Each upgrade they do on each building level. Will add 20 population per level. T
 When a player bombs another players building. For each level that is lost on that building. It looses 20 population and it will show next to the defending players current pop in negative.
 
 There will be a chat feature aswell that sort of acts as a global chat for all players to chat to each other. 
+The military units will be trained or built in the military base building page.
+The military units and requirements to build them are as follows:
 
+Infantry - MB level 1. 50 of each resources except coal.
+Carry capacity of 60 total resource. 
+Attack hp - 80
+Defense hp - 20
+Build time with level 0 research - 1m 45s
 
+Armored buggies - MB level 2. 110 of each resources except coal.
+Carry capacity of 100 total resources.
+Attack hp - 40
+Defense hp - 110
+Build time - 2m 30s
+
+Multiple Missile Launchers - MB level 3. 260 of each resources except coal. 
+Carry capacity of 90.
+Attack - hp - 210
+Defense hp - 300
+Build time - 4m 10s
+
+Assault Tanks - MB level 6. 1050 of each resource except coal. 
+Carry capacity of 130.
+Attack hp - 1000
+Defense hp - 840
+Build time - 15m 10s
+
+Bomber Fighters - MB level 7. 9000 of each resources except coal 
+Carry capacity of 0
+Attack hp - 0 (used to bombed down buildings)
+Defense hp - 10
+Build time - 35m 0s
+
+Plasma Fighters - MB level 7. 5800 of each resources except coal. 
+Carry capacity of 0
+Attack hp - 1600
+Defense hp - 1300
+Build time - 31min 0s
+
+Transport Trucks - MB level 8. 720 of each resources except coal. 
+Carry capacity of 1020.
+Attack hp - 10
+Defense hp - 15
+Build time - 11m 10s
+
+Transport Choppers - MB level 9. 910 of each resources except coal. 
+Carry capacity of 2100.
+Attack hp - 20
+Defense hp - 25
+Build time - 12m
+
+Air Frigates - MB level 15. 6300 of each resources including coal.
+Carry capacity of 2500.
+Attack hp - 1300
+Defense hp - 990
+Build time - 21m 20s
+
+Air Cruisers - MB level 16. 8500 of each resources including coal.
+Carry capacity of 3800.
+Attack hp - 1600
+Defense hp - 2300
+Build time - 26m 50s
+
+Air Battleships - MB level 18. 13000 of each resources including coal 
+Carry capacity of 1200.
+Attack hp - 4000
+Defense hp -2800
+Build time - 32m 16s
+
+Explorer Crew - MB level 20 (max) 60000 of each resources including coal
+Carry capacity of 0
+Attack hp - 0
+Defense hp - 0
+Build time - 1h 40m 0s
