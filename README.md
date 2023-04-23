@@ -128,6 +128,10 @@ Next to each military unit type or name. There will be in brackets display the a
 You can train or build more than one type of unit at a time. It will look like the following:
 Infantry: (2000)+3000
 That means the player has 2000 infantry and 3000 are busy being built.
+Then on the main overview page (index.php) next to the (Military Base) link or button. In brackets and pink. It will show the overall total number or troops.
+Example. 
+Military Base (230000)
+Player has 230000 units in total on that base
 
 Now for the radar section
 
