@@ -268,3 +268,17 @@ Health:500 hp (That is the amount of bomber fighters attack hp required to reduc
 <br>
 Home | Help |
 ===============<br>
+
+Now in the Forces menue, player must first create a force or battalion. They cannot do any military operations without one.
+I chould look like this (with 1 battalion group already created)<br>
+==<br>
+Forces:<br>
+A50Z5P11<br>
+*At Base* - Moving - Attacking - Defending<br>
+Battlion 1 - Troops (356000) - (This shows that there is a battalion created with 360000 troops in that group)<br>
+Attack HP - 400000000 - Defense HP - 250000000 - (This show the amount of combined hp in this battlion group)<br>
+Cargo - 0/450000000 KGs - (This shows the amounts loot or cargo the battalion currently has against the amount it can carry)<br>
+<br>
+Create - (When a player clicks on this button, it will take them to another page called f_create.php, on that page all available troop at base and not in a battalion group will be display, the player simply has to insert the amount of what ever units they want in the group then at the bottom it will with a button Form Battalion, it will then be added to the above page under the At Base tag under the first battalion group)<br>
+<br>
+Battalions: (1) - Units: (356000) - Cargo: (450000000)
