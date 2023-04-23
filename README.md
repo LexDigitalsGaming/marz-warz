@@ -30,9 +30,9 @@ I will work on alliance feature later in the game.
 
 The buildings each players base or plot will be the following.
 
-Buildings:
-Lead mine - max level of 20. Produces 13000 lead per hour at maxed level.
-Metal mine - max level of 20. Produces 13000 Metal per hour at maxed level.
+Buildings: <br>
+Lead mine - max level of 20. Produces 13000 lead per hour at maxed level. <br>
+Metal mine - max level of 20. Produces 13000 Metal per hour at maxed level. <br>
 Oil well - max level of 20 produces 13000 Oil per hour at maxed level.
 Coal mine - maxed level 30 prodeces 70000 Coal per hour at maxed level.
 Lead store - maxed level 50. Stores 560 000 lead at maxed level.
